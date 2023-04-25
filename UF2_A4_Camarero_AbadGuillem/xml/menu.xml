@@ -1,0 +1,179 @@
+<platos>
+<!-- Platos combinados -->
+  <combinados nombre="SALMÓN A LA PARILLA CON PATATAS FRITAS Y ENSALADA" precio="15.50" 
+  descripcion="Filete de salmón fresco a la parrilla, servido con puré de patatas suave y verduras salteadas en una salsa ligera de mantequilla" 
+  categoria="Pescado, gluten"
+  calorias="700">
+  
+    <ingrediente nombre="Salmón fresco" />
+    <ingrediente nombre="Patatas cocidas" />
+    <ingrediente nombre="Verduras salteadas" />
+    <ingrediente nombre="Salsa ligera de mantequilla" />
+    <ingrediente nombre="Judías verdes" />
+  </combinados>
+<combinados nombre="FILETE DE TERNERA CON PATATAS Y ENSALADA" precio="14.50" 
+descripcion="Filete de ternera jugoso a la parrilla, servido con patatas fritas crujientes y una ensalada fresca." 
+categoria="Cárnicos, gluten"
+calorias="900">
+    <ingrediente nombre="Filete de ternera" />
+    <ingrediente nombre="Patatas fritas" />
+    <ingrediente nombre="Tomate y cebolla" />
+    <ingrediente nombre="Salsa de kétchup" />
+  </combinados>
+  <combinados nombre="PECHUGA DE POLLO RELLENA DE QUESO DE CABRA Y ESPINACAS CON ARROZ" precio="16.95" 
+  descripcion="Pechuga de pollo tierna y jugosa rellena con queso de cabra y espinacas, servida con arroz pilaf aromático." 
+  categoria="Cárnicos, gluten"
+  calorias="750">
+    <ingrediente nombre="Pechuga de pollo" />
+    <ingrediente nombre="Queso de cabra" />
+    <ingrediente nombre="Espinacas" />
+    <ingrediente nombre="Arroz pilaf" />
+  </combinados>
+<combinados nombre="LASAÑA DE VERDURAS CON ENSALADA SIN GLUTEN" precio="15" 
+descripcion="Lasaña vegetariana hecha con capas de verduras frescas, queso ricotta y salsa de tomate, servida con una ensalada fresca" 
+categoria="Vegetariano, gluten free"
+calorias="600">
+    <ingrediente nombre="Berenjenas" />
+    <ingrediente nombre="Calabacín" />
+    <ingrediente nombre="Pimiento" />
+    <ingrediente nombre="Queso ricotta" />
+    <ingrediente nombre="Lasaña" />
+  </combinados>
+  <combinados nombre="PASTA CON SALSA BOLOÑESA Y PARMESANO RALLADO" precio="15.99" 
+  descripcion="Pasta clásica con una salsa de carne boloñesa sabrosa y parmesano rallado." 
+  categoria="Cárnicos,pasta"
+  calorias="800">
+    <ingrediente nombre="Pasta" />
+    <ingrediente nombre="Carne molida" />
+    <ingrediente nombre="Tomate y cebolla" />
+    <ingrediente nombre="Zanahoria" />
+    <ingrediente nombre="Queso parmesano " />
+  </combinados>
+  <combinados nombre="RISOTTO DE SETAS CON POLLO A LA PARILLA" precio="19.50" 
+  descripcion="Cremoso risotto de setas, servido con un filete de pechuga de pollo jugoso a la parrilla." 
+ categoria="Vegetariano,cárnicos"
+  calorias="900">
+    <ingrediente nombre="Risotto" />
+    <ingrediente nombre="Arroz arborio" />
+    <ingrediente nombre="Setas" />
+    <ingrediente nombre="Vino blanco" />
+    <ingrediente nombre="Pechuga de pollo" />
+  </combinados>
+
+<!-- Bocadillos/bocatas -->
+<bocatas nombre="BOCADILLO LOCO CON BACON" precio="6.80" 
+  descripcion="Delicioso bocadillo de lomo con bacon es una opción clásica para aquellos que buscan una comida rápida y sabrosa. Este bocadillo está relleno de finas lonchas de lomo adobado y crujiente bacon, todo ello envuelto en un pan tierno y fresco." 
+  categoria="Cárnicos, gluten"
+  calorias="575">
+    <ingrediente nombre="Pan" />
+    <ingrediente nombre="Lomo " />
+    <ingrediente nombre="Bacon" />
+  </bocatas>
+  <bocatas nombre="BOCADILLO DE POLLO A LA PARRILLA" precio="6.50" 
+  descripcion="Bocadillo relleno de pechuga de pollo a la parrilla, lechuga fresca, tomate y mayonesa. Pan crujiente con semillas, lo que lo convierte en una opción más saludable." 
+  categoria="Cárnicos, gluten"
+  calorias="425">
+    <ingrediente nombre="Pan🥖" />
+    <ingrediente nombre="Pollo" />
+    <ingrediente nombre="Lechuga" />
+    <ingrediente nombre="Tomate" />
+    <ingrediente nombre="Mayonesa" />
+  </bocatas>
+  <bocatas nombre="BOCADILLO FRÍO DE LA CASA" precio="5.99" 
+  descripcion="Creación única que destaca por sus ingredientes especiales. Este bocadillo esta compuesto por una mezcla de sabores y texturas que lo hacen muy especial. Compuesto de jamón serrano, queso manchego, tomate rallado, lechuga, aceitunas, aceite de oliva y un toque de ajo." 
+  categoria="Cárnicos, gluten"
+  calorias="600">
+    <ingrediente nombre="Jamón serrano" />
+    <ingrediente nombre="Queso manchego" />
+    <ingrediente nombre="Tomate rallado " />
+    <ingrediente nombre="Lechuga" />
+    <ingrediente nombre="Aceitunas" />
+    <ingrediente nombre="Aceite de oliva" />
+    <ingrediente nombre="Ajo" />
+  </bocatas>
+  <bocatas nombre="HAMBURGUESA CLÁSICA SIN GLUTEN" precio="9.80" 
+  descripcion="Hamburguesa clásica más popular en todo el mundo. Se compone de una carne de vacuno picada y moldeada en forma de disco, asada a la parrilla o a la plancha y servida en un pan de hamburguesa con lechuga, tomate, cebolla y queso." 
+  categoria="Cárnicos, gluten free"
+  calorias="700">
+    <ingrediente nombre="Carne de vacuno picada" />
+    <ingrediente nombre="Pan de hamburguesa" />
+    <ingrediente nombre="Lechuga"  />
+    <ingrediente nombre="Tomate"  />
+    <ingrediente nombre="Cebolla"  />
+    <ingrediente nombre="Queso"  />
+
+  </bocatas>
+  <bocatas nombre="HAMBURGUESA VEGETARIANA" precio="9.99" 
+  descripcion="Hamburguesa vegetariana, opción popular para aquellos que prefieren evitar la carne. Está hecha de una variedad de ingredientes como soja, lentejas, garbanzos o setas, moldeada en forma de hamburguesa y asada a la plancha. Servida en un pan de hamburguesa con lechuga, tomate y otros condimentos" 
+  categoria="Vegetariano, vegano"
+  calorias="550">
+    <ingrediente nombre="Hamburguesa vegetariana de soja, lentejas, garbanzos y setas" />
+    <ingrediente nombre="Pan de Hamburguesa" />
+    <ingrediente nombre="Cebolla" />
+    <ingrediente nombre="Lechuga" />
+    <ingrediente nombre="Aguacate" />
+    <ingrediente nombre="Salsa de yogur" />
+  </bocatas>
+
+  <bocatas nombre="HAMBURGUESA GOURMET" precio="9.50" 
+  descripcion="La hamburguesa gourmet es una opción más sofisticada y elaborada que se ha vuelto popular en los últimos años. Está hecha con carne de alta calidad, como la carne de buey, incluye ingredientes especiales como queso de cabra, bacon ahumado, cebolla caramelizada y salsa de trufa." 
+  categoria="Cárnicos, gluten"
+  calorias="550">
+    <ingrediente nombre="Hamburguesa de carne de buey" />
+    <ingrediente nombre="Pan de Hamburguesa brioche" />
+    <ingrediente nombre="Cebolla caramelizada" />
+    <ingrediente nombre="Lechuga" />
+    <ingrediente nombre="Tomate" />
+    <ingrediente nombre="Bacon ahumado" />
+    <ingrediente nombre="Queso de cabra" />
+    <ingrediente nombre="Salsa de trufa" />
+  </bocatas>
+  <!-- Postres -->
+  <postres nombre="CRÈME BRULÉE" precio="7.50" 
+descripcion="Postre clásico y elegante que consiste en una crema suave y dulce de vainilla cubierta con una capa crujiente de caramelo." 
+calorias="350">
+    <ingrediente nombre="Yemas de huevo" />
+    <ingrediente nombre="Azúcar" />
+    <ingrediente nombre="Leche" />
+    <ingrediente nombre="Nata" />
+  </postres>
+    <postres nombre="FONDUE DE CHOCOLATE CON FRUTAS FRESCAS" precio="7" 
+    descripcion="Postre indulgente y divertido que consiste en un cuenco de chocolate derretido caliente y cremoso, servido con una variedad de frutas frescas para sumergir." 
+    calorias="500">
+    <ingrediente nombre="Chocolate negro" />
+    <ingrediente nombre="Nata líquida" />
+    <ingrediente nombre="Frutas frescas de temporada." />
+  </postres>
+    <postres nombre="TARTA DE MANZANA AL HORNO CON HELADO DE VAINILLA" precio="6.75" 
+    descripcion="Tarta de manzana caliente y reconfortante con una capa superior de crujiente crumble, servida con una bola de helado de vainilla cremoso." 
+    calorias="800">
+    <ingrediente nombre="Helado de vainilla" />
+    <ingrediente nombre="Manzana" />
+    <ingrediente nombre="Canela" />
+    <ingrediente nombre="Nuez moscada" />
+    <ingrediente nombre="Mantequilla" />
+  </postres>
+    <postres nombre="TIRAMISÚ" precio="6.25" 
+    descripcion="Postre italiano, favorito de muchos, consiste en capas de bizcocho empapado en café, crema de mascarpone dulce y polvo de cacao." 
+    calorias="500">
+    <ingrediente nombre="Bizcocho empapado en café" />
+    <ingrediente nombre="Crema mascarpone dulce" />
+    <ingrediente nombre="Cacao en polvo" />
+  </postres>
+    <postres nombre="CRUMBLE DE PERA Y CANELA CON HELADO DE VAINILLA" precio="9" 
+    descripcion="Deliciosa mezcla de peras dulces y canela crujiente, coronada con un crumble dorado y servido con helado de vainilla cremoso." 
+   calorias="375" 
+   caracteristica="">
+    <ingrediente nombre="Pera" />
+    <ingrediente nombre="Canela" />
+    <ingrediente nombre="Mantequilla" />
+    <ingrediente nombre="Helado de vainilla" />
+  </postres>
+    <postres nombre="SOUFFLÉ DE CHOCOLATE CON SALA DE FRAMBUESA" precio="10.50" 
+    descripcion="Postre clásico francés es ligero y esponjoso, y se sirve caliente con una salsa de frambuesa fresca" 
+    calorias="450">
+    <ingrediente nombre="Chocolate negro" />
+    <ingrediente nombre="Salsa de frambuesa" />
+    <ingrediente nombre="Mantequilla" />
+  </postres>
+</platos>
