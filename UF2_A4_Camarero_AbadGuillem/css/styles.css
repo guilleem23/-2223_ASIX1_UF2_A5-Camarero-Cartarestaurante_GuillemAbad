@@ -59,10 +59,10 @@ p.menu-williams{
 }
 
 .linea-color {
-  background-image: url('../img/cielo.gif'); /* Cambia 'ruta-de-la-imagen.jpg' por la ruta de tu imagen */
+  background-image: url('../img/cielo.gif'); 
   background-size: cover;
   background-position: center;
-  height: 10vh; /* Altura predeterminada */
+  height: 10vh; 
   display: flex;
   flex-direction: column;
   align-items: center;
